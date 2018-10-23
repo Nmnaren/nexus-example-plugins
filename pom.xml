@@ -42,6 +42,7 @@
             <name>Releases</name>
             <url>http://ec2-34-214-242-151.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/jenkins/</url>
         </repository>
+		<repositories>
         <snapshotRepository>
             <id>snapshot</id>
             <name>Snapshot</name>
